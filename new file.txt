@@ -1,1 +1,2 @@
 git learn
+git first add,commit then push
