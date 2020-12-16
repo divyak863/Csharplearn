@@ -1,10 +1,12 @@
-
-
 using System;
-namespace SampleApplicationProject {
-    partial class Class2 {
-       void PrintWelcome(){
+
+namespace SampleApplicationProject
+{
+   partial class Program
+   {
+      public void PrintWelcome()
+      {
             Console.WriteLine("Print welcome");
-        }
-    }
+      }
+   }
 }
