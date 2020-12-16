@@ -1,0 +1,7 @@
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe.config
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.exe
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\bin\Debug\SampleApplicationProject.pdb
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csprojAssemblyReference.cache
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.csproj.CoreCompileInputs.cache
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.exe
+C:\Users\Divya\source\repos\DevOps\Day2\SampleApplicationSolution\SampleApplicationProject\obj\Debug\SampleApplicationProject.pdb
