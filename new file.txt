@@ -1,9 +1,9 @@
 git learn
-<<<<<<< HEAD
+
 
 
 
 changes done
-=======
+
 git first add,commit then push
->>>>>>> f4196864a0f9179271396c52ddbe3ba9e39cbded
+
